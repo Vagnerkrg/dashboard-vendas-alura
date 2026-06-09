@@ -1,5 +1,3 @@
-markdown
-
 # 🛒 Dashboard de Vendas com Streamlit
 
 
