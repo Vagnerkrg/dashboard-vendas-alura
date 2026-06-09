@@ -8,7 +8,6 @@
   <img src="https://shields.io" alt="Plotly">
 </p>
 
-
 Este é um projeto de um painel interativo de vendas desenvolvido em Python utilizando a biblioteca **Streamlit**. O objetivo é consolidar dados comerciais e apresentar métricas de receitas, quantidades de vendas e desempenho de vendedores por meio de gráficos dinâmicos.
 
 ## 🚀 Funcionalidades
