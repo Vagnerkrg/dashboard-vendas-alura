@@ -1,10 +1,10 @@
-`📦 v1.0.0`
-
 # 🛒 Dashboard de Vendas com Streamlit
 
+`🐍 Python` `📦 v1.0.0`
 
-Este é um projeto de um painel interativo de vendas desenvolvido em Python utilizando a biblioteca **Streamlit**. O objetivo é consolidar dados comerciais e apresentar métricas de receitas, quantidades de vendas e desempenho de vendedores por meio de gráficos dinâmicos.
+🔗 **Acesse o dashboard online:** [projeto-dashboard.streamlit.app](https://projeto-dashboard.streamlit.app/)
 
+Este é um projeto de um painel interativo de vendas desenvolvido em Python utilizando a biblioteca **Streamlit**...
 
 ## 🚀 Funcionalidades
 - **Análise Dinâmica**: Abas separadas para avaliar Receitas, Quantidade de Vendas e Desempenho do Time.
