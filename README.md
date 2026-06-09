@@ -1,4 +1,11 @@
-markdown# 🛒 Dashboard de Vendas com Streamlit
+markdown
+
+# 🛒 Dashboard de Vendas com Streamlit
+
+![Python](https://shields.io)
+![Streamlit](https://shields.io)
+![Pandas](https://shields.io)
+![Plotly](https://shields.io)
 
 Este é um projeto de um painel interativo de vendas desenvolvido em Python utilizando a biblioteca **Streamlit**. O objetivo é consolidar dados comerciais e apresentar métricas de receitas, quantidades de vendas e desempenho de vendedores por meio de gráficos dinâmicos.
 
